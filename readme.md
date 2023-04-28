@@ -2,6 +2,8 @@
 
 <h2> Architecture </h2>
 
+![loan](https://user-images.githubusercontent.com/78962943/235244960-ecaa6002-619c-4d63-8031-7ad0edf38e73.png)
+
 <h2> Description </h2>
 
 This is the bakcend of the the loan manager web app , built using nestjs.
@@ -32,6 +34,7 @@ This is the bakcend of the the loan manager web app , built using nestjs.
 <h2> Team </h2>
 
 -Salem Hamdani
+
 -ismail Charfi
 
 
