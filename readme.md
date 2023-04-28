@@ -35,7 +35,7 @@ This is the bakcend of the the loan manager web app , built using nestjs.
 
 -Salem Hamdani
 
--ismail Charfi
+-Ismail Charfi
 
 
 
